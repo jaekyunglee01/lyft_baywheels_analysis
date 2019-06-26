@@ -1,9 +1,8 @@
 
-
 <img src="bay_wheels.png" style="width:1000px; height:500px"/>
-## Lyft's Bay Wheels Bikeshare Analysis
-###  Author: Jaekyung Lee
-
+----------------------------------
+# Lyft's Bay Wheels Bikeshare Analysis
+##  Author: Jaekyung Lee
 ### Dataset
 The data consist of approximately 1.1 milion bikeshare trips from January-2019 to May-2019. <br />
 - The attributes include: <br />
@@ -53,4 +52,3 @@ For the presentation, I aimed to explore user habits of BayWheels customers and 
 - The Relatinoship Among User Type and Number of Trips and Gender
 - Monthly, Weekly & Hourly Usage of Baywheels Per User Type and Gender
 - The Trip Duration per User Type and Gender
-# lyft_baywheels_analysis
