@@ -1,6 +1,6 @@
-
 <img src="bay_wheels.png" style="width:1000px; height:500px"/>
-----------------------------------
+
+
 # Lyft's Bay Wheels Bikeshare Analysis
 ##  Author: Jaekyung Lee
 ### Dataset
